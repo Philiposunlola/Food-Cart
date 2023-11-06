@@ -105,16 +105,6 @@ header .shopping span{
     color: #fff;
     width: 100%;
 }
-
-
-
-
-
-
-
-
-
-
 .listCard li{
     display: grid;
     grid-template-columns: 100px repeat(3, 1fr);
