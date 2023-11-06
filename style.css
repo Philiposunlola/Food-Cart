@@ -83,13 +83,6 @@ header .shopping span{
 .active .container{
    transform: translateX(-200px);
 }
-
-
-
-
-
-
-
 .list .item{
     text-align: center;
     background-color: #DCE0E1;
@@ -114,6 +107,14 @@ header .shopping span{
     width: 100%;
     padding: 10px;
 }
+
+
+
+
+
+
+
+
 
 
 .listCard li{
