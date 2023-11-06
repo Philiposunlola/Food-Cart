@@ -60,7 +60,7 @@ header .shopping span{
     position: absolute;
     bottom: 0;
     width: 100%;
-    display: flex;
+    display: grid;
     grid-template-columns: repeat(2, 1fr);
 }
 .card .checkOut div{
