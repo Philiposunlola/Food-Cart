@@ -101,6 +101,7 @@ function reloadCard(){
     total.innerText = totalPrice.toLocaleString();
     quantity.innerText = count;
 }
+
 function changeQuantity(key, quantity){
     if(quantity == 0){
         delete listCards[key];
