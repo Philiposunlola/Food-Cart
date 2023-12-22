@@ -65,6 +65,7 @@ function initApp(){
     })
 }
 initApp();
+
 function addToCard(key){
     if(listCards[key] == null){
         // copy product form list to list card
