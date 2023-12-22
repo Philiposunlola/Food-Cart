@@ -51,6 +51,7 @@ let products = [
         price: 120000,
     }
 ];
+
 let listCards  = [];
 function initApp(){
     products.forEach((value, key) =>{
