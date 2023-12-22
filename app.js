@@ -73,6 +73,7 @@ function addToCard(key){
     }
     reloadCard();
 }
+
 function reloadCard(){
     listCard.innerHTML = '';
     let count = 0;
